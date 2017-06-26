@@ -1,1 +1,7 @@
 gym[all]
+tensorflow
+keras-rl
+h5py
+tensorlayer
+#python3-tk
+pylab
